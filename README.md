@@ -11,4 +11,9 @@ Apprendre à utiliser Git et GitHub en travail collaboratif.
 ## Auteur
 Nom : Salma
 Date : Septembre 2026
+
 Test de validation Scrum Master - merge via Pull Request
+
+## Auteur
+Ikhlass Chahbi - Developpeur / Testeur
+
